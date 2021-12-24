@@ -1,0 +1,152 @@
+/* font-family: 'Baloo Bhai 2', cursive;
+font-family: 'Baloo Da 2', cursive;
+font-family: 'Montagu Slab', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+
+
+
+
+
+
+
+
+
+.item1{
+  background-image: url("images/bn2.jpg");
+  width: 100%;
+  height: 100%;
+}
+.item5{
+  background-color: black;
+}
+.fotp a{
+  padding: 2px 3px;
+  margin: 3px 4px;
+  text-decoration: none;
+  color: white;
+}
+/* navbar */
+.img1{
+  position: absolute;
+  top: 10px;
+  left: 7%;
+  padding: 0% 3px;
+
+}
+.collapse{
+padding:  0 20%;
+margin: 10px 10px;
+font-family: 'Ubuntu', sans-serif;
+font-weight: 100;
+font-size: 1.3rem;
+position: relative;
+left: 30%;
+}
+.collapse .navbar-nav .nav-item .nav-link:hover{
+  color: #00ffff;
+}
+.banw{
+  padding: 7% 7%;
+}
+.hh{
+  font-size: 3rem;
+  font-family: 'Montagu Slab', serif;
+  font-weight: bold;
+}
+/* .navimg{
+  position: absolute;
+  top: 23%;
+} */
+.hh2{
+  font-size: 2rem;
+  font-family: 'Baloo Bhai 2', cursive;
+  font-weight: 100;
+}
+p{
+  font-family: 'Baloo Da 2', cursive;
+  font-size: 1rem;
+}
+.cup{
+     width: 100%;
+     height: 100%;
+}
+/* section2 */
+.item3{
+  background-color: #fffaf0;
+}
+.about{
+  padding: 4% 3%;
+  text-align:left;
+  margin: auto;
+}
+.ab{
+  text-align: left;
+  font-family: 'Baloo Bhai 2', cursive;
+  font-size: 3rem;
+  font-weight: normal;
+  color: #000000;
+}
+.abp{
+  text-align: left;
+  font-family: 'Baloo Da 2', cursive;
+  font-weight: normal;
+  color: #c0c0c0;
+  /* padding-right: 20%; */
+
+
+
+}
+.item4{
+  padding: 8% 5%;
+  background-color: #87ceeb;
+}
+.important-things{
+  text-align: center;
+  align-items:center;
+}
+
+.col-sm-1{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 15px;
+  padding-right: 15px;
+  font-family: 'Baloo Da 2', cursive;
+}
+.fa{
+  font-size: 60px;
+  padding-bottom: 5%;
+  color: #4682b4;
+
+}
+
+/* fotter */
+.ftc{
+  padding: 5% 5%;
+  color: white;
+}
+.ppp{
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-left: 5%;
+  padding-right: 10%;
+  font-family: 'Baloo Da 2', cursive;
+}
+.ftk{
+  text-align: center;
+  padding-top: 5%;
+    color: white;
+}
+.footerh3{
+  font-family: 'Baloo Da 2', cursive;
+
+}
+.ftimg{
+  margin: 5px;
+}
+.number{
+  text-decoration: none;
+  color: white;
+}
